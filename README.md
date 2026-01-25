@@ -1,8 +1,6 @@
-# gem5
+## Experimental Results
 
-## MSCS 531 – Assignment 3
-
-## Performance Data
+## Cache Hit Rates
 
 | Configuration | L1 I-Cache Hit Rate | L1 D-Cache Hit Rate | L2 Cache Hit Rate |
 |--------------|-------------------:|-------------------:|-----------------:|
